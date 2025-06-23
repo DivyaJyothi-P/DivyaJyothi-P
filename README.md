@@ -4,10 +4,10 @@ Currently, I’m working with the **Kerala State Electricity Board Ltd (KSEBL)**
 ## Tools and Technologies
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00427A?style=for-the-badge)
 ![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X-CC0000?style=for-the-badge)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-PCB--Design-blue?style=flat&logo=easyeda)
+![C++17](https://img.shields.io/badge/C++-17-informational)
 ## Projects
 -[EV Demand Energy using Coast-Down](https://github.com/DivyaJyothi-P/Electric-Vehicle-s-Demand-Energy-calculation-using-SAE-J2263-Coast-down-method)
 MATLAB based  calculation of Electric Vechile demand Energy,Power and Tractive forces using coast down method for different drive cycles

@@ -13,6 +13,8 @@ Currently, I’m working with the **Kerala State Electricity Board Ltd (KSEBL)**
 MATLAB based  calculation of Electric Vechile demand Energy,Power and Tractive forces using coast down method for different drive cycles
 -[EV Demand Energy using Theoretical method](https://github.com/DivyaJyothi-P/Theoretical-calculation-of-an-electric-vehicle-s-energy-demand-using-MATLAB)
 MATLAB based  calculation of Electric Vechile demand Energy,Power and Tractive forces using Theoretical method for European drive cycle
+-[Actual velocity tracking of an Electric Vehicle Model Using PID Controller in Simulink](https://github.com/DivyaJyothi-P/Actual-velocity-tracking-of-an-Electric-vehicle-model-)
+Simulink model of an Electric Vehicle (EV) system designed for real time velocity tracking using a PID controller.
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-Divya-orange?style=for-the-badge&logo=gmail)](mailto:divyajyothidivakar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/divya-jyothi-p-01824a2b7)

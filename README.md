@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Divya Jyothi P!
-An Electrical and Electronics Engineer passionate about the Electrical Vehicle(EV) industry,with hands on experience in MATLAB,Simulinka nd Embedded systems.I have completed an **Executive Post Graduate Certificate Program in Electric Vehicle Design conducted by iHUB DivyaSampark at Indian institute of Technology Roorkee in association with Department of science and Technology**
+An Electrical and Electronics Engineer passionate about the Electrical Vehicle(EV) industry,with hands on experience in MATLAB,Simulinka and Embedded systems.I have completed an **Executive Post Graduate Certificate Program in Electric Vehicle Design conducted by iHUB DivyaSampark at Indian institute of Technology Roorkee in association with Department of science and Technology**
 Currently, I’m working with the **Kerala State Electricity Board Ltd (KSEBL)** on a contract basis, gaining practical experience in electrical systems and grid infrastructure. I’m now seeking opportunities in the electric vehicle domain where I can apply my skills, and contribute to sustainable mobility solutions.
 ## Tools and Technologies
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)

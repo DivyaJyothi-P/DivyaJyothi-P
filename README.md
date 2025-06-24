@@ -18,6 +18,10 @@ Simulink model of an Electric Vehicle (EV) system designed for real time velocit
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-Divya-orange?style=for-the-badge&logo=gmail)](mailto:divyajyothidivakar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/divya-jyothi-p-01824a2b7)
+## Author
+Divya Jyothi P-Electrical and Electronics Engineer with strong interest in Electric Vehicle technology and job opportunities in the EV domain
+
+
 
 
 
